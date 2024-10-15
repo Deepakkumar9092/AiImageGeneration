@@ -10,7 +10,9 @@ Service Layer: Communicates with an external AI API (like OpenAI's DALL·E, Deep
 AI Model: The app connects to a third-party AI API (via HTTP requests) that uses neural networks to generate images from text descriptions.
 API Management: API keys are managed securely in the Spring Boot application, and the app handles responses and errors from the AI service.
 3. Image Processing:
-The AI API takes user input (such as a text prompt) and returns a generated image.![Uploading dds.png…]()
+The AI API takes user input (such as a text prompt) and returns a generated image.
+
+![Uploading dds.png…]()
 
 The backend can store the images on cloud storage (AWS S3, Google Cloud Storage) or deliver them directly to the user.
 4. User Authentication & Management:
