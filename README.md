@@ -11,8 +11,7 @@ AI Model: The app connects to a third-party AI API (via HTTP requests) that uses
 API Management: API keys are managed securely in the Spring Boot application, and the app handles responses and errors from the AI service.
 3. Image Processing:
 The AI API takes user input (such as a text prompt) and returns a generated image.
-
-![Uploading dds.png…]()
+![dds](https://github.com/user-attachments/assets/09ba0205-ef51-42ba-bd4d-9df1a6607b76)
 
 The backend can store the images on cloud storage (AWS S3, Google Cloud Storage) or deliver them directly to the user.
 4. User Authentication & Management:
