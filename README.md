@@ -15,3 +15,4 @@ The backend can store the images on cloud storage (AWS S3, Google Cloud Storage)
 4. User Authentication & Management:
 JWT Authentication: The app uses Spring Security with JWT for secure user access, allowing users to sign up, log in, and manage their image generation requests.
 User Profiles: Users can save generated images or keep a history of their prompts and outputs.
+![Uploading dds.png…]()
